@@ -1249,6 +1249,10 @@
             "map": "Zone Liber",
             "items": ["Repeated Runs"]
         }
+	"Xeno Cocytus Militis": {
+            "map": "Zone Joculator",
+            "items": ["Repeated Runs"]
+        },
     },
     "Generic": {
         "Any": {
